@@ -1,0 +1,8 @@
+{
+  "name": "agent-status-light-bridge",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@getpaseo/client": "0.15.2"
+  }
+}

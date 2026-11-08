@@ -1,0 +1,6 @@
+# Per-machine state: settings, pid/lock files and logs
+data/
+logs/
+__pycache__/
+*.pyc
+bridge/node_modules/
